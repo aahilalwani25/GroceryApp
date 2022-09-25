@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/GROCERYDELIVERYAPP/app/src/main/res/drawable/add.xml" value="0.2203125" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/GROCERYDELIVERYAPP/app/src/main/res/drawable/btn_background.xml" value="0.2203125" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/GROCERYDELIVERYAPP/app/src/main/res/drawable/edttxt_background.xml" value="0.2203125" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/GROCERYDELIVERYAPP/app/src/main/res/layout-w1240dp/activity_login_admin.xml" value="0.26666666666666666" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/GROCERYDELIVERYAPP/app/src/main/res/layout-w936dp/activity_login_admin.xml" value="0.153125" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/GROCERYDELIVERYAPP/app/src/main/res/layout/activity_add_items.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/GROCERYDELIVERYAPP/app/src/main/res/layout/activity_add_to_card.xml" value="0.22" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/GROCERYDELIVERYAPP/app/src/main/res/layout/activity_admin_login.xml" value="0.14" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/GROCERYDELIVERYAPP/app/src/main/res/layout/activity_login_admin.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/GROCERYDELIVERYAPP/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/GROCERYDELIVERYAPP/app/src/main/res/layout/activity_main_admin.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/GROCERYDELIVERYAPP/app/src/main/res/layout/activity_main_screen.xml" value="0.15" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/GROCERYDELIVERYAPP/app/src/main/res/layout/fragment_add_items.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/GROCERYDELIVERYAPP/app/src/main/res/layout/fragment_add_items2.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/GROCERYDELIVERYAPP/app/src/main/res/layout/fragment_delete_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/GROCERYDELIVERYAPP/app/src/main/res/layout/fragment_fruits.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/GROCERYDELIVERYAPP/app/src/main/res/layout/fragment_vegetables.xml" value="0.1574074074074074" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/GROCERYDELIVERYAPP/app/src/main/res/layout/recyclerview_custom.xml" value="0.25" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/GROCERYDELIVERYAPP/app/src/main/res/layout/spinner_custom.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/GROCERYDELIVERYAPP/app/src/main/res/menu/admin_menus.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/GROCERYDELIVERYAPP/app/src/main/res/menu/drawermenus.xml" value="0.15" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
